@@ -1,0 +1,157 @@
+20 Algoritmos do cotidiano
+
+1 - tomar café
+* esquentar agua
+* coar café
+* colocar café na garrafa
+* colocar café na xicara
+* tomar café
+
+2 - tomar banho
+* abrir o chuveiro
+* molhar o corpo
+* passar sabonete
+* lavar o cabelo
+* molhar o corpo novamente
+* pegar a tolha
+* se secar
+* sair do banho
+
+3 - lava a louça
+* molhar esponja
+* colocar detergente
+* esfregar pratos e talheres
+* abrir torneiro
+* lavar pratos e talheres
+* colocar no escorredor
+
+4 - escovar os dentes
+* pegar escova
+* pegar pasta de dente
+* colocar pasta na escova
+* escovar os dentes
+* lavar a boca com agua
+
+5 - arrumar a cama
+* dobrar cobertor
+* organizar travesseiros
+* esticar lençol da cama
+
+6 - fazer arroz
+* pegar panela
+* colocar arroz e tempero na panela
+* ligar o fogo
+* refogar arroz e tempero
+* colocar 2 copos de agua
+* cozinhar arroz
+* retirar arroz
+
+7 - beber agua
+* pegar garrafa vazia
+* ir ao bebedouro
+* colocar agua na garrafa
+* tomar agua
+
+8 - assistir tv
+* pegar controle da tv
+* se deitar ou sentar
+* ligar a tv
+* escolher canal
+* assistir programa
+
+9 - lavar a roupa
+* pegar roupas no cesto de roupas
+* levar até a maquina
+* colocar roupas na maquina
+* colocar sabão
+* escolher modo de lavagem
+* ligar a mangueira de agua
+* ligar a maquina
+
+10 - varrer a casa
+* pegar a vassoura
+* varrer o chão
+* pegar a pá
+* recolher poeira com a pá
+* jogar poeira no lixo
+
+11 - estudar
+* pegar caderno / livro com anotações
+* ler conteúdo
+* testar conhecimento com atividades
+* repetir o processo se errar 50% das atividades
+
+12 - dormir
+* deitar na cama
+* se cobrir com lençol
+* fechar os olhos
+* esperar o sono chegar
+
+13 - usar o celular
+* pegar o celular
+* desbloquear o celular
+* abrir whatsapp / instagram
+* enviar mensagens para amigos
+
+14 - abrir uma porta
+* pegar chaves
+* ir até a porta
+* colocar chave na fechadura
+* girar a chave
+* não destrancou
+* escolher outra chave
+* colocar na fechadura novamente
+* girar a chave
+* porta destrancada
+
+15 - sair com o carro
+* pegar chave do carro
+* pegar documento do carro
+* ir até o carro
+* abrir o carro com a chave
+* entrar no carro
+* ligar o carro com a chave
+* abrir o portão da casa
+* sair com o carro.
+
+16 - fritar ovo
+* pegar frigideira
+* colocar no fogão
+* esquentar a frigideira no fogão
+* colocar um pouco de manteiga
+* quebrar o ovo na bancada
+* colocar o ovo na frigideira
+* colocar um pouco de sal
+* mexer o ovo até fritar a gosto.
+
+17 - fazer compras no supermercado
+* fazer lista de compras
+* ir até o supermercado
+* andar pelos corredores do supermercado
+* pegar itens nas prateleiras
+* ir até o caixa
+* pagar itens
+
+18 - fazer uma vitaminada
+* escolher frutas
+* cortar frutas selecionadas
+* pegar liquidificador
+* colocar todas as frutas com agua, leite em pó
+* ligar liquidificador
+* esperar triturar até misturar tudo
+* desligar liquidificador
+* pegar um copo
+* colocar vitaminada no copo
+* tomar vitaminada.
+
+19 - fazer atividade física
+* se arrumar para academia
+* ir até a academia
+* treinar por 1h
+* voltar para casa
+
+20 - sair com os amigos
+* pegar o celular
+* entrar em contato com os amigos
+* marcar dia, hora e local para se  encontrar
+* sair no dia e hora marcada para o local.
